@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2301
+F https://www.mccsemi.com/pdf/Products/SI2301(SOT-23).pdf
+$ENDCMP
+#
+$CMP TP4056
+D 130 to 1000 mA Standalone Linear Li-Ion Battery Charger
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library
