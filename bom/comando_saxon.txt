@@ -1,0 +1,11 @@
+Steps to use BOM plugin based saxon generator
+
+1. Go Tools -> Generate Bill Of Materials
+2. Add plugins from \plugins folder;
+3. The command line to generate BOM list is described bellow:
+
+Where the installed saxon folder is in C:\Kicad\saxon
+
+"C:\KiCad\saxon\bin\Transform.exe" -t "%I" -xsl:"C:\Users\eav\Mega\kicad\bom\plugins\bom2groupedCsv.xsl" -o:"%O_BOM.csv"
+
+The file named <nome_projeto_BOM.csv> will be generated with BOM list in the Kicad SCH project folder.
