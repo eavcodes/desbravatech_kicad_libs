@@ -1,12 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM1086ISX-3.3
+D 1.5A Low droupout positive voltage regulators fixed and variable
+F https://www.ti.com/lit/ds/symlink/lm1086.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1594318295622
+$ENDCMP
+#
+$CMP M24M01
+D 1-Mbit serial I2C bus EEPROM
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group0/cb/91/ba/7d/0b/c1/4d/f6/CD00147128/files/CD00147128.pdf/jcr:content/translations/en.CD00147128.pdf
+$ENDCMP
+#
 $CMP SI2301
 F https://www.mccsemi.com/pdf/Products/SI2301(SOT-23).pdf
+$ENDCMP
+#
+$CMP TLV1117-12
+D Linear Voltage Regulator IC 1 Output 1A
+F https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=ti-null-null-DSlink-df-pf-SnapEDA-wwe
 $ENDCMP
 #
 $CMP TP4056
 D 130 to 1000 mA Standalone Linear Li-Ion Battery Charger
 F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+$CMP XC3S200-4TQG144I
+D FPGA Spartan3 TQFP-144
+$ENDCMP
+#
+$CMP XCF01SVO20C
+D FPGA - Configuration Memory Flash 1Mb PROM
+$ENDCMP
+#
+$CMP XO_ASVMB
+D ASVMB-40.000MHZ-XY-T Oscillator
 $ENDCMP
 #
 #End Doc Library
