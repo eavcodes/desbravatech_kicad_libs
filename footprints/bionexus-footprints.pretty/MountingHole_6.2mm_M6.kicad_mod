@@ -1,0 +1,9 @@
+(module MountingHole_6.2mm_M6 (layer F.Cu) (tedit 5F11EB97)
+  (fp_text reference REF** (at 0.57 -3.85) (layer Dwgs.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MountingHole_6.2mm_M6 (at 0.29 3.87) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 6 6) (drill 6) (layers *.Cu *.Mask))
+)
