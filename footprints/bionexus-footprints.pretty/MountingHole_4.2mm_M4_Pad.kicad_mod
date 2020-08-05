@@ -1,9 +1,9 @@
-(module MountingHole_4.2mm_M4_Pad (layer F.Cu) (tedit 5F11EC8D)
+(module MountingHole_4.2mm_M4_Pad (layer F.Cu) (tedit 5F285326)
   (fp_text reference REF** (at 0.06 -4.23) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value MountingHole_4.2mm_M4_Pad (at 0.02 4.13) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad "" thru_hole circle (at -0.02 0.03) (size 6 6) (drill 4.2) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -0.02 0.03) (size 6 6) (drill 4.2) (layers *.Cu *.Mask))
 )
