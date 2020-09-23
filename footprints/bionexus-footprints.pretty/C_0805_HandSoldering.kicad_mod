@@ -1,11 +1,11 @@
-(module C_0805_HandSoldering (layer F.Cu) (tedit 54F924CB)
+(module C_0805_HandSoldering (layer F.Cu) (tedit 5F6102C4)
   (descr "Capacitor SMD 0805, hand soldering")
   (tags "capacitor 0805")
   (attr smd)
-  (fp_text reference C11 (at 0 -2.1) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -2.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value 2.2uF (at 0 2.1) (layer F.SilkS) hide
+  (fp_text value 2.2uF (at 0 2.1) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -2.3 -1) (end 2.3 -1) (layer F.CrtYd) (width 0.05))
