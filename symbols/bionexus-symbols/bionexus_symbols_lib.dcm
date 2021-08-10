@@ -1,7 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D_Photo_ALT
+D Photodiode, filled shape
+K photodiode diode opto
+F ~
+$ENDCMP
+#
 $CMP ISL6292-2CR4Z
 F https://www.renesas.com/en-us/www/doc/datasheet/isl6292.pdf
+$ENDCMP
+#
+$CMP LED_IrDa
+D Light emitting diode
+K LED diode
+F ~
 $ENDCMP
 #
 $CMP LM1086ISX-3.3
