@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CPC5902GS
+F https://www.ixysic.com/home/pdfs.nsf/www/CPC5902.pdf/$file/CPC5902.pdf
+$ENDCMP
+#
 $CMP D_Photo_ALT
 D Photodiode, filled shape
 K photodiode diode opto
@@ -24,6 +28,17 @@ $ENDCMP
 $CMP M24M01
 D 1-Mbit serial I2C bus EEPROM
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/group0/cb/91/ba/7d/0b/c1/4d/f6/CD00147128/files/CD00147128.pdf/jcr:content/translations/en.CD00147128.pdf
+$ENDCMP
+#
+$CMP MAX31865xAP
+D RTD-to-Digital Converter, SSOP-20
+K RTD SPI Temperature
+F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
+$ENDCMP
+#
+$CMP RM_0505S
+D DC-DC CONVERTER 5V to 5V
+F https://recom-power.com/pdf/Econoline/RM.pdf
 $ENDCMP
 #
 $CMP SI2301
