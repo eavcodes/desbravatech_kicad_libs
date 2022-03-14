@@ -2671,7 +2671,7 @@
     (property "Value" "BU12TD3WG" (id 1) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -2.54 1.27 0)
+    (property "Footprint" "bionexus-footprints:SSOP-5" (id 2) (at -2.54 1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/buxxtd3wg-e.pdf" (id 3) (at -2.54 1.27 0)
