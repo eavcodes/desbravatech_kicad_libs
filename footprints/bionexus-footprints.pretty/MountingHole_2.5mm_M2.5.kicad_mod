@@ -1,0 +1,20 @@
+(footprint "MountingHole_2.5mm_M2.5" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 623B59F9)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "Dwgs.User") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b7cf2839-b1c0-4185-bd2b-8b40d3060ac9)
+  )
+  (fp_text value "MountingHole_2.5mm_M2.5" (at 0.05 2.1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fcf53a3f-59b9-4ab4-bae0-543d7757d600)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c7daa16d-2cdc-48f9-84e1-6fd3b9ab8609)
+  )
+  (fp_circle (center 0 0) (end 1.3 0.75) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp ec7425db-97df-4e3f-a1d9-7fa3fa52762c))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers F&B.Cu *.Mask)
+    (clearance 0.5) (tstamp 1649514f-be2c-4397-84a3-b203c4176700))
+)
