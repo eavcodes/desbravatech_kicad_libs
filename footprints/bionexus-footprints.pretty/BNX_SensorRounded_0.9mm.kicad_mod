@@ -1,0 +1,29 @@
+(footprint "BNX_SensorRounded_0.9mm" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0.51 6.97 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a821f659-5d67-4789-8b3b-7f06736389e1)
+  )
+  (fp_text value "BNX_SensorRounded_0.9mm" (at 0 10.09 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b33a62da-d7eb-4459-a00e-12c0f5e4b1d9)
+  )
+  (fp_text user "${REFERENCE}" (at 0.51 7 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp edba147b-ad48-4087-95c9-b431acfd970c)
+  )
+  (fp_arc (start 2.314698 -2.755997) (mid 0.028502 3.603952) (end -2.358 -2.719042) (layer "F.Cu") (width 0.9) (tstamp 22580604-8b93-4dfe-a42c-4f79c0887c42))
+  (fp_arc (start 3.471715 -4.134877) (mid 0.040764 5.398921) (end -3.533756 -4.081983) (layer "F.Cu") (width 0.9) (tstamp 97305795-a652-4e63-9210-8f8423d3a189))
+  (fp_arc (start 1.157038 -1.376351) (mid 0.013673 1.801192) (end -1.177798 -1.358628) (layer "F.Cu") (width 0.9) (tstamp f23ba659-f05e-41b0-a895-6ebfdf8536b0))
+  (fp_circle (center 0.000022 0.002833) (end 0.261707 0.235164) (layer "F.Cu") (width 0.2) (fill solid) (tstamp 461776a0-10a0-488a-ae8f-f69078280cc7))
+  (group "" (id 5b481528-59fd-4ee5-b208-4541cd998106)
+    (members
+      22580604-8b93-4dfe-a42c-4f79c0887c42
+      461776a0-10a0-488a-ae8f-f69078280cc7
+      97305795-a652-4e63-9210-8f8423d3a189
+      f23ba659-f05e-41b0-a895-6ebfdf8536b0
+    )
+  )
+)
