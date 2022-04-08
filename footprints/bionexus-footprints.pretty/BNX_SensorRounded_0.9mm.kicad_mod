@@ -18,6 +18,10 @@
   (fp_arc (start 3.471715 -4.134877) (mid 0.040764 5.398921) (end -3.533756 -4.081983) (layer "F.Cu") (width 0.9) (tstamp 97305795-a652-4e63-9210-8f8423d3a189))
   (fp_arc (start 1.157038 -1.376351) (mid 0.013673 1.801192) (end -1.177798 -1.358628) (layer "F.Cu") (width 0.9) (tstamp f23ba659-f05e-41b0-a895-6ebfdf8536b0))
   (fp_circle (center 0.000022 0.002833) (end 0.261707 0.235164) (layer "F.Cu") (width 0.2) (fill solid) (tstamp 461776a0-10a0-488a-ae8f-f69078280cc7))
+  (fp_arc (start 2.314698 -2.755997) (mid 0.028502 3.603952) (end -2.358 -2.719042) (layer "F.Mask") (width 0.9) (tstamp 036afffe-cbbf-4ead-9c0c-ea4c435dd04c))
+  (fp_arc (start 1.157038 -1.376351) (mid 0.013673 1.801192) (end -1.177798 -1.358628) (layer "F.Mask") (width 0.9) (tstamp 4e7cc6e5-aced-4989-bbbb-e93c89ac78a7))
+  (fp_arc (start 3.471715 -4.134877) (mid 0.040764 5.398923) (end -3.533756 -4.081983) (layer "F.Mask") (width 0.9) (tstamp 59ed5280-2b07-4e66-a7e0-df21615d622c))
+  (fp_circle (center 0.000022 0.002833) (end 0.34996 0.002833) (layer "F.Mask") (width 0.2) (fill solid) (tstamp 56f55bb6-4eed-416b-b118-9d46bea66843))
   (group "" (id 5b481528-59fd-4ee5-b208-4541cd998106)
     (members
       22580604-8b93-4dfe-a42c-4f79c0887c42
