@@ -4761,7 +4761,7 @@
     (property "Value" "HS3001" (at -4.318 0.508 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at -4.318 0.508 0)
+    (property "Footprint" "bionexus-footprints:LGA-6" (at -4.318 0.508 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Renesas/HS300x_4-9-21.pdf" (at -4.318 0.508 0)
