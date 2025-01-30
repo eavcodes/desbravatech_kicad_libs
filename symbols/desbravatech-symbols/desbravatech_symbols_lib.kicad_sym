@@ -31008,7 +31008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "R7FA4E2B93CFM#BA0"
+		(property "PN" "R7FA4E2B93CFM#BA0"
 			(at 49.53 -577.14 0)
 			(effects
 				(font
@@ -31018,7 +31018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Distributor ID" ""
 			(at 49.53 -677.14 0)
 			(effects
 				(font
@@ -31028,7 +31028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" ""
+		(property "Un.Price" ""
 			(at 49.53 -777.14 0)
 			(effects
 				(font
