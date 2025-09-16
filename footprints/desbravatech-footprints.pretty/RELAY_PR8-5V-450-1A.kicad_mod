@@ -1,0 +1,231 @@
+(footprint "RELAY_PR8-5V-450-1A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -6.175 -6.985 0)
+		(layer "F.SilkS")
+		(uuid "fb81b5b8-9d2d-40a6-8f27-0209d3b07501")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RELAY_PR8-5V-450-1A"
+		(at 2.715 6.985 0)
+		(layer "F.Fab")
+		(uuid "be2b245c-0f59-42de-a343-edca16ed4197")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1413f4a-05b3-4ea8-857a-349bb0758ce2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "773cb96d-b5c6-41c4-bb1b-75a3a0cfc9dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.1 -5.1)
+		(end 6.33 -5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e6dd603-c124-499e-9141-db37a83eac8d")
+	)
+	(fp_line
+		(start -9.1 5.1)
+		(end -9.1 -5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bb1f86a5-ab6d-4117-8239-c6d83f2ebd51")
+	)
+	(fp_line
+		(start 3.78 5.1)
+		(end -9.1 5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f2b2db2-760a-4596-8f86-99830a8099d4")
+	)
+	(fp_line
+		(start 9.1 5.1)
+		(end 6.82 5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35cf5294-7b91-4d3b-810b-4589eddc6cbc")
+	)
+	(fp_line
+		(start 9.1 5.1)
+		(end 9.1 -2.13)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ffec2ad-f1a5-4443-bed4-be68bc7e1813")
+	)
+	(fp_line
+		(start -9.35 -5.35)
+		(end -9.35 5.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "249ddcb4-335f-487a-99c2-a7ce3ee0e4ee")
+	)
+	(fp_line
+		(start -9.35 5.35)
+		(end 9.35 5.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8c9163a5-7120-42c6-9965-b34c155acbbf")
+	)
+	(fp_line
+		(start 9.35 -5.35)
+		(end -9.35 -5.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4d13ee65-19b8-4383-8156-f545cddbab42")
+	)
+	(fp_line
+		(start 9.35 5.35)
+		(end 9.35 -5.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f307e3e-ac65-4eb5-a82d-bede4fa7084c")
+	)
+	(fp_line
+		(start -9.1 -5.1)
+		(end 9.1 -5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "da677706-932a-4578-9c8a-f3a4c5459d82")
+	)
+	(fp_line
+		(start -9.1 5.1)
+		(end -9.1 -5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5df540bd-89dd-430a-864c-f23f3e7634b1")
+	)
+	(fp_line
+		(start 9.1 -5.1)
+		(end 9.1 5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6932fa8-8365-4bb7-ad66-5e43b6750b64")
+	)
+	(fp_line
+		(start 9.1 5.1)
+		(end -9.1 5.1)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9857303e-447e-4426-b596-20bc8119ca99")
+	)
+	(pad "A1" thru_hole circle
+		(at -7.4 -3.8)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "0b99a7c2-e31e-48ca-9d69-5fe4f0d4dddf")
+	)
+	(pad "A2" thru_hole circle
+		(at -7.4 3.8)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5bec42bb-3329-4b00-a5c8-6917abee1dff")
+	)
+	(pad "COM" thru_hole circle
+		(at 5.3 3.65)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "9be521f6-5361-464e-9677-c5f0b8977956")
+	)
+	(pad "NO" thru_hole circle
+		(at 7.85 -3.65)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "6f00c6cb-f8fe-436c-a459-983c7ea75201")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/marco/OneDrive/Documentos/GitHub/desbravatech_kicad_libs/3d/PR8-5V-450-1A.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
